@@ -15,6 +15,8 @@
 ## Parameter file
 /pipeline_hes/pipeline.ini
 - contains user-defined parameters for controlling pipeline settings
+- replace <YOUR_DIR> with the appropriate directories
+- this file contains the locations of the MI/Control matching file (list of Patient IDs), and the raw patient data (all disease and demographic data)
 
 
 ## Order of operations
